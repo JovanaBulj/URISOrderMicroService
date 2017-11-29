@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URISOrderMicroService", "UR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URISOrderMicroService.Tests", "URISOrderMicroService.Tests\URISOrderMicroService.Tests.csproj", "{2FD6FE65-B4A1-40A9-A1C0-F018B97C2D23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URISUtil", "..\..\Util\URISUtil\URISUtil\URISUtil.csproj", "{3DC6A668-783B-4D14-A8B8-2FB1C718F78D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URISUtil", "..\Util\URISUtil\URISUtil\URISUtil.csproj", "{3DC6A668-783B-4D14-A8B8-2FB1C718F78D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

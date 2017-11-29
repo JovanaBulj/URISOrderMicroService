@@ -77,6 +77,12 @@ namespace URISOrderMicroService.DataAccess
             return str == null ? (object)DBNull.Value : "%" + str + "%";
         }
 
+       /* public static List<Order> GetOrders(DateTime Date, string DeliveryAddress, string DeliveryZipCode,ActiveStatusEnum active,OrderEnum orderDirection)
+        {
+
+        }
+        */
+        
         public static Order GetOrder(int orderId)
         {
             try
